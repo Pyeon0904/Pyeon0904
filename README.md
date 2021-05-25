@@ -8,7 +8,7 @@ If you want to contact me, please leave me a message!
 
 - 🌱 I’m currently learning Spring framework
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pyeon0904)](https://github.com/Pyeon0904)
 
 <!--
 **Pyeon0904/Pyeon0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
