@@ -3,8 +3,7 @@
 I'm JunJang Pyeon who is interested Java Develop from South Korea. <br/>
 If you want to contact me, please leave me a message!
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/junjang.pyun)
 <!--
 **Pyeon0904/Pyeon0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
