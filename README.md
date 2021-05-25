@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello Everyone. God bless you : ) ✨
+
+I'm JunJang Pyeon who is interested Java Develop from South Korea.
+If you want to contact me, please leave me a message!
 
 <!--
 **Pyeon0904/Pyeon0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
