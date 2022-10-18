@@ -5,7 +5,7 @@ If you want to contact me, please leave me a message!
 
 - 🌱 I’m currently learning JavaScript and React
 
-[![Tstory Blog Badge](https://img.shields.io/badge/-Tstory%20blog-yellow)](https://everybodypyeon.tistory.com/m/)
+[![Tstory Blog Badge](https://img.shields.io/badge/-Tstory%20blog-yellow&<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>)](https://everybodypyeon.tistory.com/m/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjp2548@gmail.com)](mailto:jjp2548@gmail.com)
 
 
