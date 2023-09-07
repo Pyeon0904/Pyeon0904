@@ -3,7 +3,7 @@
 I'm JunJang Pyeon who is interested React & JavaScript Develop from South Korea. <br/>
 If you want to contact me, please leave me a message!
 
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning NextJS and TailwindCSS
 
 [![Tstory Blog Badge](https://img.shields.io/badge/-Tstory%20blog-yellow)](https://everybodypyeon.tistory.com/m/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjp2548@gmail.com)](mailto:jjp2548@gmail.com)
